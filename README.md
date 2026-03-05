@@ -108,3 +108,16 @@ src/
 <div align="center">
   <img src="./assets/Adobe Express - Reservar una clase.gif" alt="Demostración del proceso" width="100%">
 </div>
+
+### 🎓 Interfaz del Alumno
+<details>
+  <summary><b>👉 Haz clic para ver las 3 vistas de Alumno</b></summary>
+  <br>
+
+| Sección | Descripción | Vista Previa |
+| :--- | :--- | :--- |
+| **Perfil de Usuario** | El alumno puede gestionar su información personal, agregar o modificar sus datos de contacto y fotografía. | <img src="./assets/AlumnoImagenPestañaReserva.png" width="450" alt="Perfil Alumno"> |
+| **Reservas de Clase** | Interfaz principal para solicitar nuevas tutorías, seleccionando materias y horarios disponibles. | <img src="./imagenReserva%20alumno.png" width="450" alt="Reserva Alumno"> |
+| **Mi Agenda** | Calendario personal donde el alumno hace seguimiento de todas sus clases confirmadas y pendientes. | <img src="./imagen%20agenda%20alumno.png" width="450" alt="Agenda Alumno"> |
+
+</details>
