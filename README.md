@@ -36,7 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
-##Hacer Reserva
+## Procedimiento de solicitar una Reserva
 <div align="center">
   <img src="./assets/Adobe Express - Reservar una clase.gif" alt="Demostración del proceso" width="100%">
 </div>
