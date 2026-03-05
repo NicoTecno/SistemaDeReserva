@@ -38,5 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ##Hacer Reserva
 <div align="center">
-  <img src="./assets/demo.gif" alt="Demostración del proceso" width="100%">
+  <img src="./assets/Adobe Express - Reservar una clase.gif" alt="Demostración del proceso" width="100%">
 </div>
